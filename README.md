@@ -3,6 +3,14 @@ Created a data-driven football analysis and prediction system to generate insigh
 
  <img width="960" alt="image" src="https://github.com/user-attachments/assets/37108f9e-97d2-442a-b0c6-cbdf5684d46f" />
 
+<img width="355" alt="Screenshot 2025-01-22 at 4 15 34 PM" src="https://github.com/user-attachments/assets/de20992c-e57f-45aa-837f-47d80a3608f1" />
+<img width="462" alt="Screenshot 2025-01-22 at 4 15 26 PM" src="https://github.com/user-attachments/assets/0738e239-8221-45c3-9ae6-9acd595860f9" />
+<img width="551" alt="Screenshot 2025-01-22 at 4 15 17 PM" src="https://github.com/user-attachments/assets/da393792-0098-43ff-a3bc-88830f1053ca" />
+<img width="873" alt="Screenshot 2025-01-22 at 4 14 34 PM" src="https://github.com/user-attachments/assets/80dd9fc4-bd7d-4e2b-b691-38229b66f5a2" />
+<img width="996" alt="Screenshot 2025-01-22 at 4 14 22 PM" src="https://github.com/user-attachments/assets/a70357e5-e829-40ae-a87e-39be16dd2f0a" />
+<img width="1105" alt="Screenshot 2025-01-22 at 4 13 57 PM" src="https://github.com/user-attachments/assets/fa6a8856-7dca-4d5f-930d-07dbe34904b9"/>
+<img width="512" alt="Screenshot 2025-01-22 at 4 16 30 PM" src="https://github.com/user-attachments/assets/22c64848-2686-4571-8c40-4d3f28f1424d" />
+
 
 
 Introduction
